@@ -1,0 +1,37 @@
+.img {
+    border-radius: 50%;
+    height: 200px;
+}
+
+.flexend {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.spacearound {
+    display: flex;
+    justify-content: space-around;
+}
+
+.spacebetween {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flexend {
+    display: flex;
+    align-items: flex-end;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #2a5c08;
+    font-size: 1.5em;
+    font-weight: 400;
+}
